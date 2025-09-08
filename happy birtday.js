@@ -4,7 +4,7 @@ let w = (c.width = window.innerWidth),
   hw = w / 2;
 (hh = h / 2),
   (opts = {
-    strings: ["HAPPIEST", "BIRTHDAY!", "YASHUUUUUUUU!!!!", "STAY HAPPY STAY BLESSED", "MAY ALL YOUR DREAMS COME TRUE", "I AM ALWAYS THERE FOR YOU YASHUUU!!!!"],
+    strings: ["HAPPIEST", "BIRTHDAY!", "AARYAAAAA!!!!", "STAY HAPPY STAY BLESSED", "MAY ALL YOUR DREAMS COME TRUE", "I AM ALWAYS THERE FOR YOU MERI CHOTI SI CHUHIYA!!!!"],
     charSize: 30,
     charSpacing: 35,
     lineHeight: 40,
@@ -398,4 +398,5 @@ window.addEventListener("resize", function () {
 
   ctx.font = opts.charSize + "px Verdana";
 });
+
 
